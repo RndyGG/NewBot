@@ -1,0 +1,16 @@
+{
+	"sent": {
+		"chat": 111,
+		"sticker": 40,
+		"image": 1,
+		"gp2": 13,
+		"e2e_notification": 3,
+		"notification_template": 2
+	},
+	"receive": {
+		"chat": 212,
+		"image": 40,
+		"video": 4,
+		"sticker": 26
+	}
+}
